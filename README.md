@@ -9,3 +9,4 @@ I will explain more clearly what I did here and why the annotations where used i
 But, as for now I will first finish it completely, then I'll go through it and make a full description of the project.
 ###
 
+As for now, the project uses a local database that is in a docker container.
