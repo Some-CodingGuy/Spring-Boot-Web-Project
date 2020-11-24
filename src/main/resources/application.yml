@@ -1,6 +1,6 @@
 app:
   datasource:
-    jdbc-url: jdbc:postgresql://localhost:5432/spring-boot  # Url to the database. Whatever database you use, make sure you import the correct drivers for the database.
-    username: postgres      # Username of the user in the database that will be accountable for the changes you want to make.
-    password: password      # Password of the user in the database that you want to use.
+    jdbc-url: jdbc:postgresql://localhost:5432/spring-boot
+    username: postgres
+    password: password
     pool-size: 30
