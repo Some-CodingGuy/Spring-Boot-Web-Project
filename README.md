@@ -5,4 +5,6 @@ Project where I'll be exerimenting with Spring Boot Web capabilities and testing
 
 I will explain more clearly what I did here and why the annotations where used in those places, what their role is and how they interact with each other.
 
-But, as for now I will first finish it completely, then I'll go through it and make a full description of the project.
+### 1. Project purpose
+
+This project's main purpose is to allow me (and any other person reading the code and tinkering with it) t learn about Spring Boot, more specifically about the web framework.
